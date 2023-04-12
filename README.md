@@ -1,5 +1,5 @@
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 As a Full-stack developer I'm building end-to-end web applications using a variety of technologies and tools.
 
 ---
