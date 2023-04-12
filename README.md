@@ -1,3 +1,9 @@
+
+### :woman_technologist: About Me :
+As a Full-stack developer I'm building end-to-end web applications using a variety of technologies and tools.
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
