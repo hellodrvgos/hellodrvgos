@@ -1,5 +1,5 @@
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 As a Full-stack developer I'm building end-to-end web applications using a variety of technologies and tools:
 
 <div>
@@ -29,7 +29,7 @@ As a Full-stack developer I'm building end-to-end web applications using a varie
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellodrvgos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
