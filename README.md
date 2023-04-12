@@ -1,6 +1,6 @@
 
 ### :man_technologist: About Me :
-As a Full-stack developer I'm building end-to-end web applications using a variety of :hammer_and_wrench: technologies and tools:
+As a Full-stack developer I'm building end-to-end web applications using a variety of technologies and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
