@@ -25,9 +25,13 @@ As a Full-stack developer I'm building end-to-end web applications using a varie
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress " width="40" height="40"/>&nbsp;
-
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellodrvgos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hellodrvgos/hellodrvgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
